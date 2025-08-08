@@ -7,3 +7,4 @@ JapanSmartChain検証用のサンプルリポジトリ
 - [Block Explorer](https://explorer.kaigan.jsc.dev/)
 - [Testnet Faucet](https://faucet.kaigan.jsc.dev/)
 - [JapanSmartChain版 Uniswap](https://uniswap.kaigan.jsc.dev/)
+- [JapanSmartChain クイックスタート](https://docs.kaigan.jsc.dev/docs/core/quickstart)

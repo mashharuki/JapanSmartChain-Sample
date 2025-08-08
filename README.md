@@ -1,0 +1,2 @@
+# JapanSmartChain-Sample
+JapanSmartChain検証用のサンプルリポジトリ

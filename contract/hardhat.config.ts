@@ -4,10 +4,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const {
-  PRIVATE_KEY,
-  KAIGAN_RPC_URL,
-} = process.env;
+const { PRIVATE_KEY, KAIGAN_RPC_URL } = process.env;
 
 const config: HardhatUserConfig = {
   solidity: '0.8.28',
